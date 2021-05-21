@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tiga.iml" filepath="$PROJECT_DIR$/.idea/modules/tiga.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/tiga.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/tiga.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PM04.iml" filepath="$PROJECT_DIR$/.idea/modules/PM04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PM04.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PM04.app.iml" />
     </modules>
   </component>
 </project>
