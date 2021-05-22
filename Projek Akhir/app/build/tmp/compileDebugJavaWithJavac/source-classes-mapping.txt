@@ -1,0 +1,2 @@
+com/hamri/newsapp/BuildConfig.java
+ com.hamri.newsapp.BuildConfig
