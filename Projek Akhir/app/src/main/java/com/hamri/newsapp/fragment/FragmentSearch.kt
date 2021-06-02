@@ -35,7 +35,7 @@ import java.util.*
 class FragmentSearch : Fragment() {
 
     companion object {
-        const val API_KEY = "API KEY ada di Video YT"
+        const val API_KEY = "f3aa09e2f1d7494e9fded68f30d4c1"
     }
 
     var strKeywords: String = ""
