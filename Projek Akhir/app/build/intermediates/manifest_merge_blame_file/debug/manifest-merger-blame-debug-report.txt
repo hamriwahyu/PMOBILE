@@ -30,28 +30,27 @@
 20-->H:\PMOBILE\Projek Akhir\app\src\main\AndroidManifest.xml:12:9-54
 21        android:supportsRtl="true"
 21-->H:\PMOBILE\Projek Akhir\app\src\main\AndroidManifest.xml:13:9-35
-22        android:testOnly="true"
-23        android:theme="@style/AppTheme"
-23-->H:\PMOBILE\Projek Akhir\app\src\main\AndroidManifest.xml:14:9-40
-24        android:usesCleartextTraffic="true" >
-24-->H:\PMOBILE\Projek Akhir\app\src\main\AndroidManifest.xml:15:9-44
-25        <activity android:name="com.hamri.newsapp.activities.DetailNewsActivity" />
-25-->H:\PMOBILE\Projek Akhir\app\src\main\AndroidManifest.xml:17:9-84
-25-->H:\PMOBILE\Projek Akhir\app\src\main\AndroidManifest.xml:17:19-81
-26        <activity android:name="com.hamri.newsapp.activities.MainActivity" >
-26-->H:\PMOBILE\Projek Akhir\app\src\main\AndroidManifest.xml:18:9-24:20
-26-->H:\PMOBILE\Projek Akhir\app\src\main\AndroidManifest.xml:18:19-75
-27            <intent-filter>
-27-->H:\PMOBILE\Projek Akhir\app\src\main\AndroidManifest.xml:19:13-23:29
-28                <action android:name="android.intent.action.MAIN" />
-28-->H:\PMOBILE\Projek Akhir\app\src\main\AndroidManifest.xml:20:17-69
-28-->H:\PMOBILE\Projek Akhir\app\src\main\AndroidManifest.xml:20:25-66
-29
-30                <category android:name="android.intent.category.LAUNCHER" />
-30-->H:\PMOBILE\Projek Akhir\app\src\main\AndroidManifest.xml:22:17-77
-30-->H:\PMOBILE\Projek Akhir\app\src\main\AndroidManifest.xml:22:27-74
-31            </intent-filter>
-32        </activity>
-33    </application>
-34
-35</manifest>
+22        android:theme="@style/AppTheme"
+22-->H:\PMOBILE\Projek Akhir\app\src\main\AndroidManifest.xml:14:9-40
+23        android:usesCleartextTraffic="true" >
+23-->H:\PMOBILE\Projek Akhir\app\src\main\AndroidManifest.xml:15:9-44
+24        <activity android:name="com.hamri.newsapp.activities.DetailNewsActivity" />
+24-->H:\PMOBILE\Projek Akhir\app\src\main\AndroidManifest.xml:17:9-84
+24-->H:\PMOBILE\Projek Akhir\app\src\main\AndroidManifest.xml:17:19-81
+25        <activity android:name="com.hamri.newsapp.activities.MainActivity" >
+25-->H:\PMOBILE\Projek Akhir\app\src\main\AndroidManifest.xml:18:9-24:20
+25-->H:\PMOBILE\Projek Akhir\app\src\main\AndroidManifest.xml:18:19-75
+26            <intent-filter>
+26-->H:\PMOBILE\Projek Akhir\app\src\main\AndroidManifest.xml:19:13-23:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->H:\PMOBILE\Projek Akhir\app\src\main\AndroidManifest.xml:20:17-69
+27-->H:\PMOBILE\Projek Akhir\app\src\main\AndroidManifest.xml:20:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->H:\PMOBILE\Projek Akhir\app\src\main\AndroidManifest.xml:22:17-77
+29-->H:\PMOBILE\Projek Akhir\app\src\main\AndroidManifest.xml:22:27-74
+30            </intent-filter>
+31        </activity>
+32    </application>
+33
+34</manifest>

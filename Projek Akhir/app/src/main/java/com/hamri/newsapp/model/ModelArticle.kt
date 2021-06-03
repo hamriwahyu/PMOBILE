@@ -1,9 +1,11 @@
 package com.hamri.newsapp.model
 
+import android.annotation.SuppressLint
 import android.os.Parcel
 import android.os.Parcelable
 import com.google.gson.annotations.SerializedName
 
+@SuppressLint("ParcelCreator")
 data class ModelArticle(
         @SerializedName("source")
         var modelSource: ModelSource?,
@@ -44,8 +46,7 @@ data class ModelSource(
 ) : Parcelable {
         constructor(parcel: Parcel) : this(
                 parcel.readString(),
-                parcel.readString()) {
-        }
+                parcel.readString())
 
         override fun writeToParcel(parcel: Parcel, flags: Int) {
                 parcel.writeString(id)
